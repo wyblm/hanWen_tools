@@ -2,8 +2,10 @@
 
 > **本仓库开源的资料内容包括：**
 
-> * 键盘二次开发SDK（开发中）
 >  **开源项目贡献中**
+
+> * 键盘二次开发SDK（开发中）
+> * 键盘拓展模块功能（开发中）
 ![hw2](4.Docs/2.Images/join.jpg)
 
 >加入我们
@@ -175,7 +177,4 @@ while (true)
 > [zhongyang219/TrafficMonitor: 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。 (github.com)](https://github.com/zhongyang219/TrafficMonitor)
 
 # hanWen_tools
-# hanWen_tools
-# hanWen_tools
-# hanWen_tools
-# hanWen_tools
+
